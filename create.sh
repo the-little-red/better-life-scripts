@@ -4,7 +4,7 @@
 #username of the user to be created
 user1=username
 
-#if the user will have a ssh key, key = 1, ssh var has the user key
+#if the user will have a ssh key, ssh = 1, the key  var has the user key
 key=0
 ssh=0
 #if the user will have sudo access or not
