@@ -14,3 +14,6 @@ usermod -a -G group_name user_name
 
 #get GID of a group
 getent group group_name | awk -F: '{printf "Group %s with GID=%d\n", $1, $3}'
+
+#ports in use 
+netstat -anp 
