@@ -1,4 +1,9 @@
 #!/bin/bash
+# @Author: Arianne Bortolan (the-little-red)
+# @Date:   26-08-2021
+# @Last modified by: the-little-red
+# @Last modified time: 26-08-2021
+
 PROD_IP=""
 USER=""
 SQL_FILENAME=""

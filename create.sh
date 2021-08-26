@@ -1,6 +1,10 @@
 #!/bin/bash
-#user creation script
+# @Author: Arianne Bortolan (the-little-red)
+# @Date:   26-08-2021
+# @Last modified by: the-little-red
+# @Last modified time: 26-08-2021
 
+#user creation script
 #username of the user to be created
 user1=username
 

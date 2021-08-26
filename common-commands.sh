@@ -1,4 +1,8 @@
-Common commands
+#!/bin/bash
+# @Author: Arianne Bortolan (the-little-red)
+# @Date:   26-08-2021
+# @Last modified by: the-little-red
+# @Last modified time: 26-08-2021
 
 #check if a mount in fstab is ok
 sudo findmnt --verify --verbose
