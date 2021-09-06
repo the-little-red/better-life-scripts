@@ -1,0 +1,5 @@
+#revert last service 
+git revert -m 1 <commit-hash>
+
+#squash last N commits into one commit 
+git rebase --interactive HEAD~N 
