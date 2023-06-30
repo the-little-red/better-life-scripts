@@ -1,4 +1,4 @@
-#revert last service 
+#revert last commit
 git revert -m 1 <commit-hash>
 
 #squash last N commits into one commit 
