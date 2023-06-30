@@ -1,0 +1,12 @@
+Host server1
+     HostName server1.localhost
+     User your_user
+     Port 22
+     IdentityFile path/to/private/key/id_rsa
+     
+Host server2
+     HostName server2.localhost
+     User your_user
+     Port 22
+     IdentityFile path/to/private/key/id_rsa
+          
